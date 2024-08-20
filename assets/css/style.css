@@ -64,6 +64,8 @@ body {
     max-width: min-content;
     padding: 40px;
     margin: 10px;
+    justify-content: center;
+    align-items: center;
 }
 
 #avatar {
@@ -82,7 +84,11 @@ body {
 
 #tagline {
     color: #FFFFFF;
-    margin-bottom: 1.5rem;
+    margin: 1.5rem 0 1.5rem 0;
+}
+
+ul {
+    padding: 0;
 }
 
 .link {
@@ -90,6 +96,12 @@ body {
     list-style-type: none;
     border-radius: .5rem;
     margin-bottom: 1rem;
+    color:#FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 19rem;
+    height: 2.8rem;
 }
 
 .attribution {
