@@ -23,7 +23,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
+![image](https://github.com/user-attachments/assets/75b910ef-695c-45af-ad14-5138b493da8b)
 
 ### Links
 
