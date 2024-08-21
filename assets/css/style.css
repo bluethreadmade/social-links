@@ -52,7 +52,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    margin:0;
+    margin: .625rem;
+    padding: .625rem
 }
 
 #card {
@@ -62,8 +63,8 @@ body {
     border: 1px solid #111111;
     border-radius: 20px;
     max-width: min-content;
-    padding: 40px;
-    margin: 10px;
+    padding: 2.5rem;
+    margin: .625rem;
     justify-content: center;
     align-items: center;
 }
@@ -76,15 +77,20 @@ body {
 
 #name {
     color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1.5rem;
 }
 
 #location {
     color: #C4F82A;
+    font-size: .875rem;
 }
 
 #tagline {
     color: #FFFFFF;
     margin: 1.5rem 0 1.5rem 0;
+    font-weight: bold;
+    font-size: .875rem;
 }
 
 ul {
@@ -105,7 +111,7 @@ ul {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: .7rem;
   text-align: center;
   color: white
 }
